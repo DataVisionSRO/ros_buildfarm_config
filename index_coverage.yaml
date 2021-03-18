@@ -1,0 +1,6 @@
+%YAML 1.1
+# ROS buildfarm index file
+---
+rosdistro_index_url: https://raw.githubusercontent.com/ros/rosdistro/master/index-v4.yaml
+type: buildfarm
+version: 1
